@@ -1,0 +1,6 @@
+c:\users\raza\documents\visual studio 2015\Projects\vpassgnmnewlogic\vpassgnmnewlogic\bin\Debug\vpassgnmnewlogic.exe.config
+c:\users\raza\documents\visual studio 2015\Projects\vpassgnmnewlogic\vpassgnmnewlogic\obj\Debug\vpassgnmnewlogic.csprojResolveAssemblyReference.cache
+c:\users\raza\documents\visual studio 2015\Projects\vpassgnmnewlogic\vpassgnmnewlogic\bin\Debug\vpassgnmnewlogic.exe
+c:\users\raza\documents\visual studio 2015\Projects\vpassgnmnewlogic\vpassgnmnewlogic\bin\Debug\vpassgnmnewlogic.pdb
+c:\users\raza\documents\visual studio 2015\Projects\vpassgnmnewlogic\vpassgnmnewlogic\obj\Debug\vpassgnmnewlogic.exe
+c:\users\raza\documents\visual studio 2015\Projects\vpassgnmnewlogic\vpassgnmnewlogic\obj\Debug\vpassgnmnewlogic.pdb
